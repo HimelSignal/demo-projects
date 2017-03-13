@@ -40,7 +40,7 @@ import javazoom.jl.decoder.Decoder;
 import javazoom.jl.decoder.Header;
 import javazoom.jl.decoder.SampleBuffer;
 import javazoom.jl.decoder.Bitstream;
-
+//df gdfjkgdkjghdf
 class DFilterCanvas extends Canvas {
     DFilterFrame pg;
     DFilterCanvas(DFilterFrame p) {
